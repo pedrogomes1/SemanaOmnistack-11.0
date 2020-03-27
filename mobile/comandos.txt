@@ -1,0 +1,3 @@
+expo install expo-constants => para o conteudo ficar abaixo da statusbar
+expo install expo-mail-composer
+yarn add intl
